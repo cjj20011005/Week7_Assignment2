@@ -1,0 +1,4 @@
+#!/bin/bash
+set -e
+javac HelloWorld.java
+java HelloWorld
